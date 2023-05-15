@@ -1,0 +1,91 @@
+﻿/* inserindo um seletor reset para remover as margens e paddings */
+* {
+	margin: 0;
+	padding: 0;
+}	
+
+body {
+	color: black;
+	background-color: white;
+}
+#HP {
+	color: white; 
+	background-color: #ab0433;
+}
+.principal {
+	max-width: 1000px;
+	margin: 0 auto;
+}
+#cabecalho {
+	width: 100%;
+	height: 10vh;
+	background-color: white;
+}	
+#conteudo {
+	width: 100%;
+	height: 80vh;
+	background-color: white;
+}
+#rodape {
+	width: 100%;
+	height: 10vh;
+	background-color: #ab0433;
+	text-align: center;
+	clear: both;
+	color: white;
+}	
+.foto {
+	width: 100%;	
+}	
+.caixinha {
+	background-color: white;
+	width: 30%;
+	display: inline-block;
+	float: left;
+	color: #ab0433;
+	margin-top: 5px;
+}
+.meio {
+	margin-left: 5%;
+	margin-right: 5%;
+}	
+p {
+	margin-top: 10px;
+	margin-bottom: 10px;
+	margin-left: 10px;
+}
+.cor {
+	/* colocar especificamente onde deseja editar*/
+	color: white;
+}
+.fundo {
+	background-color: white;
+	color: #ab0433;
+}
+#strong {
+	color: #ab0433;	
+}
+.lista {
+	margin-left: 50px;
+}
+.caixinfra {
+	/* background-color: #ab0433; */
+	width:45%;
+	display: inline-block;
+	float:left; 
+	margin-top:10px;
+}
+/* inserir uma regra para criar um espaço entre as duas imagens */
+.imgdireita {
+	margin-left: 10%;	
+	margin-top: 10px;
+}
+.sel {
+	clear: both;	
+}
+
+
+
+
+
+	
