@@ -1,0 +1,148 @@
+﻿
+body {
+	color: #420987;
+	background-color: white;
+}
+
+#header {
+	width: 100%;
+	height: 10vh;
+	background-color: white;
+	display: inline-block;
+}	
+.euperfil {
+	width: 100px;
+	height: 100px;
+	border-radius: 50%;
+	float: left;
+	margin-right: 20px;
+  }
+.aba {
+	display: inline-block;
+	margin-right: 10px;
+	padding: 10px;
+	background-color: #420987;
+	color: white;
+	cursor: pointer;
+}
+.aba.sel {
+	background-color: white;
+	color: #420987;
+}
+#conteudo {
+	width: 100%;
+	height: 80vh;
+	background-color: white;
+}
+/* home page */
+.intro {
+	position: relative;
+	text-align: center;
+}
+.img-intro {
+	width: 100%;
+	height: auto;
+}
+.intro-texto {
+	position: absolute;
+	top: 40%;
+	left: 50%;
+	color: white;
+	font-size: 24px;
+}
+.foto {
+	width: 100%;
+	/*float: right;*/
+}	
+.caixaD {
+	float: right;
+	width: 50vh;
+	height: 35vh;
+}
+.img-D {
+	float: right;
+	width: 50vh;
+	height: 35vh;
+}
+.D-texto {
+	position: absolute;
+	background-color: #420987;
+	color: white;
+	font-size: 10px;
+}
+.informacoes {
+	color: #420987;
+	float: center;
+	text-align: center;
+}
+.text {
+	font-size: 30px;
+}
+.texto {
+	font-size: 20px;
+}
+.caixaE {
+	float: left;
+	width: 50vh;
+	height: 35vh;
+}
+.img-E {
+	float: right;
+	width: 50vh;
+	height: 35vh;
+}
+.E-texto {
+	position: absolute;
+	background-color: #420987;
+	color: white;
+	font-size: 10px;
+}
+/* sobre mim */
+.text-intro {
+	text-align: left;
+	float: left;
+	top: 12%;
+	left: 10%;
+	color: white;
+	position: absolute;
+	font-size: 36px;
+}
+.imgs {
+	display: inline-block;
+}
+.imagens {
+	width: 50vh;
+	height: 25vh;
+	margin-right: 80%;
+}
+.imgX {
+	width: 75%;
+	height: 20%;
+	float: right;
+}
+/* portifolio */
+.videos{
+	display: inline-block;
+	width: 100%;
+}
+.trab {
+	text-align: center;
+	font-size: 24px;
+}
+#rodape {
+	width: 100%;
+	height: 20vh;
+	background-color: #420987;
+	text-align: center;
+	clear: both;
+	color: white;
+}	
+/* gerar javascript para linkar imagens na mesma pagina e deixar o site 'flexivel'*/
+
+
+
+
+
+
+
+	
