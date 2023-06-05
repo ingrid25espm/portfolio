@@ -1,2 +1,0 @@
-# portfolio
-coiso de programação
